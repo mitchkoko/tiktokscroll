@@ -1,16 +1,5 @@
-# tiktokscroll
+# TIKTOK Style Scroll • PAGEVIEW
 
-A new Flutter project.
+Check out my tutorial for it: https://youtu.be/Gqp0_ZTeH8g
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![maxresdefault](https://user-images.githubusercontent.com/29016489/143866033-74a35ade-389d-45e2-a917-f2c802edf127.jpg)
